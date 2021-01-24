@@ -1,0 +1,30 @@
+{
+  "name": "aci_shipping_request",
+  "version": "1.0.0",
+  "description": "React-based shipping request form, for ACI Corporate Services use",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ewirtz3/aci_shipping_request.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ewirtz3/aci_shipping_request/issues"
+  },
+  "homepage": "https://github.com/ewirtz3/aci_shipping_request#readme",
+  "dependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
+  "devDependencies": {
+    "html-webpack-plugin": "^4.5.1",
+    "webpack": "^5.17.0",
+    "webpack-cli": "^4.4.0",
+    "webpack-dev-server": "^3.11.2"
+  }
+}
